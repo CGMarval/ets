@@ -1,4 +1,4 @@
-# Gestión básica de git
+# Manipulación Básica de Git
 
 Realizado por: __Cleyber Esteban Garcia Marval__  
 Nº Lista: __7__  
