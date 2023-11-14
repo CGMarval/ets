@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T15:15:35.342Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2uNq8OnTV5NAeCaxgNyq" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T15:25:55.853Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3JINdMEIvQ7Fns6LmG8c" version="22.1.0" type="github">
   <diagram name="Página-1" id="ohZRsK6lbdvxOLhYXedw">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-42" value="Agencia Viajes" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=11;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="241" y="1130" width="340" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="PpbUQz7Do1Wi7V8k9ylB-14" value="BIBLIOTECA" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="75" width="390" height="390" as="geometry" />
         </mxCell>
@@ -33,6 +36,80 @@
         </mxCell>
         <mxCell id="PpbUQz7Do1Wi7V8k9ylB-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-4" target="PpbUQz7Do1Wi7V8k9ylB-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-15" value="Ejercicio 2: Sistema de reservas de vuelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="288.5" y="600" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-16" value="Ejercicio 1:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="30" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-18" target="PpbUQz7Do1Wi7V8k9ylB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-18" target="PpbUQz7Do1Wi7V8k9ylB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-18" target="PpbUQz7Do1Wi7V8k9ylB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-18" value="&lt;b&gt;Pasajero&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="820" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-19" target="PpbUQz7Do1Wi7V8k9ylB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-19" target="PpbUQz7Do1Wi7V8k9ylB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-19" target="PpbUQz7Do1Wi7V8k9ylB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-19" value="&lt;b&gt;Agente Reservas&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="651" y="820" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-20" value="&lt;b&gt;C.U. 1: Buscar Vuelo&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="341" y="720" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-21" value="&lt;b&gt;C.U. 2: Reservar Vuelo&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="346" y="810" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-22" value="&lt;b&gt;C.U. 3: Cancelar Vuelo&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="346" y="900" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-29" value="Agencia Viajes" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=11;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="246" y="680" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-30" value="También se puede representar de la siguiente manera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283.5" y="1090" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-34" target="PpbUQz7Do1Wi7V8k9ylB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-34" target="PpbUQz7Do1Wi7V8k9ylB-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-33" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-34" target="PpbUQz7Do1Wi7V8k9ylB-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-34" value="&lt;b&gt;Pasajero&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="121" y="1190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-44" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="PpbUQz7Do1Wi7V8k9ylB-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-38" value="&lt;b&gt;Agente Reservas&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="121" y="1380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-39" value="&lt;b&gt;C.U. 1: Buscar Vuelo&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="336" y="1170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-40" value="&lt;b&gt;C.U. 2: Reservar Vuelo&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpbUQz7Do1Wi7V8k9ylB-41" value="&lt;b&gt;C.U. 3: Cancelar Vuelo&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1350" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
