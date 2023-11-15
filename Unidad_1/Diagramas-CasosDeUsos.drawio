@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T16:03:42.601Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cLAoukhAUBI0sTVj-ZwY" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T16:05:10.348Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9VWMKnTHQeRF1u8azY0f" version="22.1.1" type="github">
   <diagram name="Página-1" id="ZNuelECcAXCwTNfUA35b">
     <mxGraphModel dx="934" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="eINDZqRwower8AVah4N8-16" value="Asigna Tareas Específicas Enfermeros" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="204" y="650" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eINDZqRwower8AVah4N8-23" value="Realiza configuraciones y actualizaciones del sistema" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="eINDZqRwower8AVah4N8-23" value="Configuraciones y actualizaciones del sistema" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="920" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eINDZqRwower8AVah4N8-27" value="Administrativo" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
